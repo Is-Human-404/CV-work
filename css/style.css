@@ -1,0 +1,209 @@
+body {
+    font-family: 'Fasthand', cursive;
+    font-family: 'Montserrat', sans-serif;
+    background: white;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background: white;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about-me-section {
+    margin-bottom: 40px;
+}
+
+.main-container-section {
+    padding: 100px 90px;
+}
+
+.main-content-title,
+.education-container-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: black;
+}
+
+.about-me-profession {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 17px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.about-me-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: black;
+    margin-bottom: 25px;
+}
+
+.about-me-description {
+    font-style: normal;
+    font-weight: normal;
+    font-style: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+
+.my-profect-section {
+    margin: 0 0 50px 0;
+}
+
+.my-profect-list {
+    padding: 0 0 0 17px;
+}
+
+.my-profect-item {
+    color: black;
+    font-weight: bold;
+}
+
+.my-profect-text {
+    margin-left: 5px;
+}
+
+.my-profect-text,
+.my-profect-link {
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-style: 14px;
+    line-height: 24px;
+}
+
+.my-profect-bracket {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+}
+
+.my-work-expirience-company {
+    color: orange;
+}
+
+.my-work-expirience-section {
+    margin: 0 0 50px 0;
+}
+
+.my-work-expirience-position {
+    font-style: normal;
+    font-weight: bold;
+    line-height: 20px;
+    margin: 0 0 10px 0;
+}
+
+.education-container-univesity-degree {
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.my-work-expirience-time,
+.education-container-univesity-time {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 10px 0;
+}
+
+.my-work-expirience-divider {
+    color: black;
+}
+
+.my-work-expirience-duties {
+    padding: 0 0 0 18px;
+}
+
+.my-work-expirience-duty {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.my-work-expirience-company-block {
+    margin: 0 15px 0 0;
+}
+
+.education-container-univesity-position {
+    font-style: normal;
+    font-weight: bold;
+    line-height: 20px;
+    margin: 0 0 10px 0;
+    color: orange;
+}
+
+/*sidebar*/
+
+.sidebar-section {
+    background: #1F2936;
+    width: 226px;
+    padding: 60px 0;
+}
+
+img {
+    width: 100%;
+}
+
+.contact-section,
+.all-skills-section {
+    margin: 50px 0 0 30px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: bold;
+    font-style: 22px;
+    line-height: 27px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.contact-section-type,
+.all-skills-item-text {
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+.contact-section-type {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.contact-section-link {
+    color: #565E6A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.all-skills-list {
+    padding: 0 0 0 20px;
+    color: orange;
+}
+
+.all-skills-item-text {
+    font-style: normal;
+    font-weight: normal;
+}
